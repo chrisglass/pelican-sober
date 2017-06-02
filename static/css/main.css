@@ -44,7 +44,8 @@ body {
 }
 
 header {
-  border-top: 4px solid #4271AE;
+  /*border-top: 4px solid #4271AE;*/
+  border-top: 4px solid #800020;
   border-bottom: 1px solid #D6D6D6;
   height: 50px;
   line-height: 50px;
